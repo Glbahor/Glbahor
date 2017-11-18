@@ -1,0 +1,25 @@
+body 
+{
+background: url(stars.jpg) no-repeat center center fixed;
+         -webkit- background-size:cover;
+	-moz- background-size:cover; 
+
+
+	background-size:cover;
+
+    text-align:center;
+}
+h1 {
+    color:blue;
+    text-align: center;
+}
+a 
+{ color:green;
+    font-family: verdana;
+    font-size: 20px;
+}
+p 
+{
+    color:lightblue;
+    text-align: center;
+}
